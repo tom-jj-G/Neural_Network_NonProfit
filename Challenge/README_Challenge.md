@@ -8,12 +8,11 @@ x2 neurons by input because best practice
 
 ## Were you able to achieve the target model performance? What steps did you take to try and increase model performance?
 
-If yes: great !
 
-if not, try :
     - x3 neuros by input
-    - additional layers
-    - increase epochs
+    - 1 additional layers
+    - increase epochs to 100
+    - removing some noisy data
 
 
 ## If you were to implement a different model to solve this classification problem, which would you choose? Why?

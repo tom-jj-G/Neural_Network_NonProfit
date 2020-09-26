@@ -11,7 +11,7 @@ x2 neurons by input because best practice
 If yes: great !
 
 if not, try :
-    - x3 neuros by imput
+    - x3 neuros by input
     - additional layers
     - increase epochs
 
@@ -19,4 +19,4 @@ if not, try :
 ## If you were to implement a different model to solve this classification problem, which would you choose? Why?
 
 Random forest classifiers(Scikit-Learn’s *RandomForestClassifier*) as it might be equally performant and handle non-linear data well.
-Additionaly, both Scikit-Learn’s RandomForestClassifier class and TensorFlow’s Sequential class require preprocessing, so prepocessing stpes could be keep.
+Additionaly, both Scikit-Learn’s RandomForestClassifier class and TensorFlow’s Sequential class require preprocessing, so prepocessing stpeps could be kept.
